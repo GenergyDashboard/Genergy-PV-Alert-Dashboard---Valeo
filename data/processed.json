@@ -1,6 +1,6 @@
 {
   "plant": "Bel Essex (Valeo)",
-  "last_updated": "2026-03-24 22:55 SAST",
+  "last_updated": "2026-03-24 23:51 SAST",
   "date": "2026-03-24",
   "total_kwh": 3958.32,
   "last_hour": 0,
@@ -385,7 +385,7 @@
         0,
         0
       ],
-      "last_updated": "2026-03-24 22:55 SAST",
+      "last_updated": "2026-03-24 23:51 SAST",
       "last_hour": 0
     }
   },
