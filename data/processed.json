@@ -1,12 +1,12 @@
 {
   "plant": "Bel Essex (Valeo)",
-  "last_updated": "2026-03-25 01:45 SAST",
+  "last_updated": "2026-03-25 05:16 SAST",
   "date": "2026-03-25",
   "total_kwh": 0.0,
-  "last_hour": 2,
-  "status": "ok",
+  "last_hour": 5,
+  "status": "offline",
   "alerts": {
-    "offline": false,
+    "offline": true,
     "pace_low": false,
     "total_low": false
   },
@@ -442,8 +442,8 @@
         0,
         0
       ],
-      "last_updated": "2026-03-25 01:45 SAST",
-      "last_hour": 2
+      "last_updated": "2026-03-25 05:16 SAST",
+      "last_hour": 5
     }
   },
   "thresholds": {
@@ -458,7 +458,7 @@
     }
   },
   "debug": {
-    "reason": "outside solar window (nighttime)",
+    "reason": "no generation detected during daylight",
     "curve_fraction": 0.0,
     "expected_by_now": 0.0,
     "pace_trigger": 0.0,
